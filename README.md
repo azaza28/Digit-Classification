@@ -1,2 +1,3 @@
 # Digit-Classification
-In this IPython Notebok, the MNIST dataset with handwritten digits is used to train different models from the sci-kit learn library.
+In this IPython Notebok, the MNIST dataset with handwritten digits.
+The data was used to train different models from the sci-kit learn library in educative purposes only.
